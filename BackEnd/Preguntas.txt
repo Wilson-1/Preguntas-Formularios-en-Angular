@@ -1,0 +1,25 @@
+¿Cuál es la respuesta correcta a esta pregunta? 
+A. ¿Es esta?
+B. ¿Quizá esta?
+C. ¿Tal vez esta otra?
+Respuesta: C
+Explicación: La opción C es la correcta porque en la estructura proporcionada, 
+la respuesta "C" se selecciona arbitrariamente para ilustrar cómo se formulan 
+las respuestas correctas.
+
+¿Cuál es la respuesta correcta a esta pregunta? 
+A. ¿Es esta?
+B. ¿Quizá esta?
+C. ¿Tal vez esta otra?
+Respuesta: B
+Explicación: Similar al primer ejemplo, la respuesta B se elige para seguir 
+la estructura del ejercicio y demostrar cómo se marcan las respuestas correctas.
+
+¿Cuál es la respuesta correcta a esta pregunta? 
+A. ¿Es esta?
+B. ¿Quizá esta?
+C. ¿Tal vez esta otra?
+Respuesta: A
+Explicación: En este caso, la opción A se selecciona siguiendo la misma 
+lógica de los ejemplos anteriores, mostrando cómo aplicar la estructura 
+para responder preguntas reflexivas.
